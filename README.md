@@ -17,3 +17,20 @@
 ---
 
 ## 🗂️ Structure
+HTB-Writeups/
+
+├── Windows/
+
+│   ├── Authority.md
+
+│   └── Certified.md
+
+└── Linux/HTB-Writeups/
+
+├── Windows/
+
+│   ├── Authority.md
+
+│   └── Certified.md
+
+└── Linux/
