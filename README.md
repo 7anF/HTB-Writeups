@@ -15,22 +15,3 @@
 | Certified | Windows | Medium | Active Directory / ADCS | [Read](./Windows/Certified.md) |
 
 ---
-
-## 🗂️ Structure
-HTB-Writeups/
-
-├── Windows/
-
-│   ├── Authority.md
-
-│   └── Certified.md
-
-└── Linux/HTB-Writeups/
-
-├── Windows/
-
-│   ├── Authority.md
-
-│   └── Certified.md
-
-└── Linux/
